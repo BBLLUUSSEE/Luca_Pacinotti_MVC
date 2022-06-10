@@ -1,0 +1,15 @@
+﻿@model MenuViewModel
+
+@{
+    ViewBag.Readonly = false;
+}
+
+<h1>Inserisci nuovo Menu</h1>
+
+<form method="post">
+<partial name= "_Form" model=Model />
+
+<input type="submit" value="Inserisci" class="btn btn-primary" />
+<input type="reset" value="Reset" class="btn btn-primary" />
+<a class="btn btn-primary" asp-controller="Menu" asp-action="Index">Indietro</a>
+</form>

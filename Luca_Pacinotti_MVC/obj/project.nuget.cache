@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpcjVzjkWT82MNbngQEjn+DVbEoWHW8YBBoUB7A28vuXXV+1ij69618ieFSjyuQUX6XtZq0vjUXnrbFHeTos1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luca.pacinotti\\Desktop\\Luca_Pacinotti_MVC\\Luca_Pacinotti_MVC\\Luca_Pacinotti_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luca.pacinotti\\.nuget\\packages\\app.metrics.abstractions\\4.3.0\\app.metrics.abstractions.4.3.0.nupkg.sha512",
+    "C:\\Users\\luca.pacinotti\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

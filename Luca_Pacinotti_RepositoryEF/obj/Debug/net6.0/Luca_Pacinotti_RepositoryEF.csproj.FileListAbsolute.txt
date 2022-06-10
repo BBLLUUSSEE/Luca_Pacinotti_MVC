@@ -1,0 +1,17 @@
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_RepositoryEF.deps.json
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_RepositoryEF.runtimeconfig.json
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_RepositoryEF.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_RepositoryEF.pdb
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_Core.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\bin\Debug\net6.0\Luca_Pacinotti_Core.pdb
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.csproj.AssemblyReference.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.AssemblyInfoInputs.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.AssemblyInfo.cs
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.csproj.CoreCompileInputs.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.csproj.CopyComplete
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\refint\Luca_Pacinotti_RepositoryEF.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.pdb
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\Luca_Pacinotti_RepositoryEF.genruntimeconfig.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_RepositoryEF\obj\Debug\net6.0\ref\Luca_Pacinotti_RepositoryEF.dll

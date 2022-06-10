@@ -1,0 +1,12 @@
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\bin\Debug\net6.0\Luca_Pacinotti_Core.deps.json
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\bin\Debug\net6.0\Luca_Pacinotti_Core.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\bin\Debug\net6.0\Luca_Pacinotti_Core.pdb
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.csproj.AssemblyReference.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.AssemblyInfoInputs.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.AssemblyInfo.cs
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.csproj.CoreCompileInputs.cache
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\refint\Luca_Pacinotti_Core.dll
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\Luca_Pacinotti_Core.pdb
+C:\Users\luca.pacinotti\Desktop\Luca_Pacinotti_MVC\Luca_Pacinotti_Core\obj\Debug\net6.0\ref\Luca_Pacinotti_Core.dll
